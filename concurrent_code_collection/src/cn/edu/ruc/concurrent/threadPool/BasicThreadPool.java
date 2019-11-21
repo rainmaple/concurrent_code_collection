@@ -128,7 +128,7 @@ public class BasicThreadPool extends Thread implements ThreadPool {
     @Override
     public int getActiveCount() {
         synchronized (this){
-            return this.getActiveCount();
+            return this.activeCount;
         }
     }
 
