@@ -1,10 +1,4 @@
-package cn.edu.ruc.concurrent.exception;/**
- * @program: Ij_javatest
- * @description: ${description}
- * @author: rainmaple
- * @date: 2019-11-14 21:19
- **/
-
+package cn.edu.ruc.concurrent.exception;
 /**
  * @ClassName RunnableDennyException
  * @Description: 定义拒绝线程池添加的策略异常类
